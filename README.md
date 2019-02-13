@@ -1,5 +1,5 @@
 # docker-filecleaner
-A docker imange containing a script which removes files which removes files based on last modified date. It can be used for cleaning old files on an attached volume. Use case: Kubernetes CronJob executing the script. 
+A docker image containing a script which removes files which removes files based on last modified date. It can be used for cleaning old files on an attached volume. Use case: Kubernetes CronJob executing the script. 
 
 
 
