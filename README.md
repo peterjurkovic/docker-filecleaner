@@ -2,6 +2,7 @@
 A docker image containing a script which removes files which removes files based on last modified date. It can be used for cleaning old files on an attached volume. Use case: Kubernetes CronJob executing the script. 
 
 
+![Docker Hub](https://dockeri.co/image/peterjurkovic/file-cleaner)
 
 ```
 Usage:  clean.sh <options>
