@@ -15,7 +15,7 @@ Parameters:
 
 Examples:
 clean.sh -r -d 30 -p <path>    - remove all files and empty directories older then 30 days 
-clean.sh -v -r -d 30 -p <path> - prints and remove all files older then 30 days and 20 hours in given path
+clean.sh -v -r -d 30 -p <path> - prints and remove all files older then 30 days on given path
 
 For safety reason is allowed to remove only files which were modified  more then 2 days since now
 ```
